@@ -1,0 +1,2 @@
+#define FW_VERSION "1.0.0"
+#define VERSION_URL "https://raw.githubusercontent.com/namcktv/Update-Fw-ESP/main/version.json"
